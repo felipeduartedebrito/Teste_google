@@ -10,11 +10,11 @@ Cenário: Consulta de nome felipe
     Quando eu pesquisar na barra de pesquisas o "nome felipe"
     Então ele traz o resultado da pesquisa "Felipe"
 
-@Consultar_Carro_Bmw
+@Consultar_Carro_Ferrari
 Cenário: Consulta de bmw
     Dado que eu esteja na tela do google
-    Quando eu pesquisar na barra de pesquisas o "carro bmw"
-    Então ele traz o resultado da pesquisa "bmw"
+    Quando eu pesquisar na barra de pesquisas o "carro ferrari"
+    Então ele traz o resultado da pesquisa "ferrari"
 
 @Consultar_Animal
 Cenário: Consulta de cachorro
