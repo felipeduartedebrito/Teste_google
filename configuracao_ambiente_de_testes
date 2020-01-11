@@ -1,0 +1,18 @@
+configuração ambiente de testes
+
+Primeirão -> Instalar o Ruby na maquina
+
+Visual Code
+* Instalar Visual Studio Code
+* Instalar extensão suporte a Cucumber
+* Instalar extensão suporte a Ruby
+* Instalar extensão suporte vscode-icons
+
+Criando o projeto Base - comandos
+* gem install bundle (Gerenciador de pacotes do Ruby)
+* bundle init (Inicializa um projeto Ruby com arquivo de dependencia Gemfile)
+* limpar o Gemfile e incluir a gems que serão utilizadas no projeto
+* Instalar as gems com o comando: bundle install
+
+Criando o projeto de especificação com o cucumber
+* na pasta do projeto execute o comando cucumber --init
