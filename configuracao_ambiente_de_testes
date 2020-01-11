@@ -1,9 +1,12 @@
 configuração ambiente de testes
 
+Primeirão -> Instalar o Ruby na maquina
+
 Visual Code
 * Instalar Visual Studio Code
-* Instalar suporte a Cucumber
-* Instalar suporte a Ruby
+* Instalar extensão suporte a Cucumber
+* Instalar extensão suporte a Ruby
+* Instalar extensão suporte vscode-icons
 
 Criando o projeto Base - comandos
 * gem install bundle (Gerenciador de pacotes do Ruby)
