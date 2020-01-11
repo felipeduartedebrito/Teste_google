@@ -5,6 +5,7 @@ Dado('que eu esteja na tela do google') do
 
 Quando("eu pesquisar na barra de pesquisas o {string}") do |pesquisa|
     find('input[name="q"]').set pesquisa
+    #find(:id, 'felipe') #-> quando tiver id exemplo
     click_button "Pesquisa Google"
   end
 
